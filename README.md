@@ -38,9 +38,7 @@ plt.xlabel('Log- Transformed data')
 
 ### AFTER LOG TRANSFORMATION:
 
-
-![Uploading 261808508-c45837a1-4334-41a6-8731-bd1de76d9a1c.png…]()
-
+![261808508-c45837a1-4334-41a6-8731-bd1de76d9a1c](https://github.com/naramala-niharika/exp-3/assets/94165377/215c25a0-ac1b-42f3-962d-64564b6df85f)
 
 ## RESULT:
 ### Thus we have created the python code for the log transformation on international airline passenger data.
